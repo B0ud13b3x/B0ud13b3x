@@ -5,7 +5,7 @@
 
 I am an aspiring **Remote IT Help Desk Specialist** based in Algeria . I combine a background in English Language studies with intensive technical training in Microsoft and Google ecosystems to provide high-quality, security-first technical support.
 
----
+
 
 ## 🛡️ Professional Certifications
 I have completed a technical training path to ensure I am job-ready for Tier 1 and Tier 2 support roles:
@@ -16,7 +16,7 @@ I have completed a technical training path to ensure I am job-ready for Tier 1 a
 *   **Cisco Networking Basics & Introduction to Cybersecurity** – Core understanding of the OSI model and network protocols.
 *   **TryHackMe Pre-Security** – Hands-on foundational security and web infrastructure.
 
----
+
 
 ## 🏗️ Featured Project: [Enterprise Windows Server 2022 Lab](https://github.com/B0ud13b3x/Enterprise-IT-Operations-and-Help-Desk-Simulation)
 This is my primary hands-on environment where I simulate real-world corporate IT scenarios.
@@ -40,7 +40,7 @@ This is my primary hands-on environment where I simulate real-world corporate IT
 | **Support Tools** | Ticketing Simulations (Zendesk/Jira), Remote Desktop (RDP), PowerShell |
 | **Security** | NIST Framework, Incident Response, Log Analysis (SIEM), Microsoft Defender |
 
----
+
 
 
 ## 📬 Connect with Me
