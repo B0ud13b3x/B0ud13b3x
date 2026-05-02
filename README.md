@@ -1,7 +1,6 @@
 # Hi, I'm Mohammed Amine Boudieb 👋
 
 ### 🚀 English Major & Triple-Certified IT Support Professional
-*Bridging the gap between technical complexity and clear communication.*
 
 I am an aspiring **Remote IT Help Desk Specialist** based in Algeria . I combine a background in English Language studies with intensive technical training in Microsoft and Google ecosystems to provide high-quality, security-first technical support.
 
