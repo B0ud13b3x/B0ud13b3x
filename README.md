@@ -18,7 +18,7 @@ I have completed a technical training path to ensure I am job-ready for Tier 1 a
 
 ---
 
-## 🏗️ Featured Project: Enterprise Windows Server 2022 Lab
+## 🏗️ Featured Project: [Enterprise Windows Server 2022 Lab](https://github.com/B0ud13b3x/Enterprise-IT-Operations-and-Help-Desk-Simulation)
 This is my primary hands-on environment where I simulate real-world corporate IT scenarios.
 
 **The Scenario:** I built a functional corporate network from scratch using **Oracle VirtualBox** to practice user lifecycle management and network administration.
