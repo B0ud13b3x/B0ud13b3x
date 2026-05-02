@@ -66,13 +66,15 @@ Applying for remote roles in North America/Europe from Algeria, I prioritize upt
 
 ## 📬 Connect with Me
 [<img align="left" alt="B0ud13b3x > gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][gmail]
-[<img align="left" alt="B0ud13b3x > linkedin" width="22px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDUlEQVR4nO2YO0sDQRDHVyxsxUqwVVs/gZWdGiz9EqI5xdwWYqEE7FJY2FlYWlvYxIjmiagkuxGNwSKFEsTEPIzvjOyteWhynHfC3R7sH4bjdpa5+e3MLsciJCUlJSW21PQMUukhwrSKMAWbrIowDSGVeP6XPCYbNiYNOua3vvLOJw/cyLQFAK1tBEieAlLpgQUAUhGoAmXzAHrBfElAShzQQoQ/2bsdEKalk/zoegKOrotQff2A42wRRtYS9kCYVrcgSlxLul2HmSKvhCsAFiLayrer8vLB28kVAIrbK+Dje4BBsEqEMgUYdtUewG4/hbwxQPPhTmPjRn41BWjppDXH+70Ay2fsnLcJYP4YuomNG/mHVuIQOMhB+rYKz2+f8Fh711pxbvcK+pZixpV0EmDMn4B8+RX0dJorw+BKnFdJRIDsfQ2MFMoUoEeJignwV01upfRbyUmAz3pd6/+JzSTMbqcheFnoOm8nccc3umgAq3s3PDHW474k9C7GYP/ioWPeVf6pdaKJBDCAoz+PSl8SxgPnHfNKz+/6vyVOAdTrbf6mEehXYzpzw2IBcH/YfCwsAagEaEgCYAlAJQCSAGbVLYg3yj/w29j4X/xmYuH/Aoh0taiSknkAdj/vdOK4YSRopQIecSqQmjIPwKvgdzx5TNetJd+EINPa/byde0Jl3yJB6ysvJSUlhWzSF9z1VFjYNi3YAAAAAElFTkSuQmCC" />][linkedin]
+[<img align="left" alt="B0ud13b3x > linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][linkedin]
 [<img align="left" alt="B0ud13b3x > Credly" width="100px" src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" />][Credly]
 
-[linkedin]: https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/
-[Credly]: https://www.credly.com/users/mohamed-amine-boudieb
-*   
-*   
+
+
+[linkedin] : https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/
+[Credly] : https://www.credly.com/users/mohamed-amine-boudieb
+[gmail]: ww.ww.ww
+   
 *   **Email:** just4fun.boudieb@gmail.com
 
 *"The best way to solve a technical problem is to first listen to the person having it."*
