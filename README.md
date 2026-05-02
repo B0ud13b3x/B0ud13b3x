@@ -29,18 +29,7 @@ This is my primary hands-on environment where I simulate real-world corporate IT
 *   **Routing & Automation:** Configured **NAT/RAS** and a **DHCP Scope** to automatically assign IP addresses to clients.
 *   **Bulk User Creation:** Developed a **PowerShell script** to programmatically create 1,000+ users with unique attributes.
 *   **Client Management:** Successfully joined **Windows 10** and **Windows 11 Pro** workstations to the `mydomain.com` domain.
-
----
-
-## 🛠️ Troubleshooting Log 
-In IT, the value is in how you solve problems. Here is a real scenario from my lab work:
-
-*   **Situation:** My Windows 11 client workstation was successfully joined to the internal network but could not reach the internet.
-*   **Task:** Identify why the routing between the internal network and the NAT interface was failing.
-*   **Action:** I utilized `ipconfig /all` to verify the Default Gateway and checked the **Remote Access Services (RAS)** status on the Windows Server. I discovered the NAT routing table hadn't updated.
-*   **Result:** After restarting the RAS service and verifying the static IP on the internal NIC, the client workstation gained full internet access while remaining secured behind the DC.
-
----
+*   **Troubleshooting Log:** simulating tickets with osTicket
 
 ## 🧰 Technical Skills
 | Category | Tools & Technologies |
@@ -53,20 +42,15 @@ In IT, the value is in how you solve problems. Here is a real scenario from my l
 
 ---
 
-## 🌍 Remote Readiness & Reliability
-Applying for remote roles in North America/Europe from Algeria, I prioritize uptime and availability:
-*   **Time Zone:** GMT+1 (Ideal for North American morning/night coverage).
-*   **Hardware:** Dedicated workstation with surge protection and backup power planning.
-*   **Communication:** Fluent written and spoken English; proficient in Slack, MS Teams, and Zoom.
-
----
 
 ## 📬 Connect with Me
 
-[<img align="left" alt="B0ud13b3x > linkedin" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-[<img align="left" alt="B0ud13b3x > Credly" width="60px" src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" />][Credly]
+[<img align="left" alt="B0ud13b3x > linkedin" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="B0ud13b3x > Instagram" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][Instagram]
+[<img align="left" alt="B0ud13b3x > Credly" width="100px" src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" />][Credly]
 
 
+[Instagram]: https://www.instagram.com/boudieb.m
 [linkedin]: https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/
 [Credly]: https://www.credly.com/users/mohamed-amine-boudieb
 
