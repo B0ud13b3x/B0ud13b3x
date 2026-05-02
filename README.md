@@ -35,7 +35,7 @@ This is my primary hands-on environment where I simulate real-world corporate IT
 
 ---
 
-## 🛠️ Troubleshooting Log (The "Aha!" Moments)
+## 🛠️ Troubleshooting Log 
 In IT, the value is in how you solve problems. Here is a real scenario from my lab work:
 
 *   **Situation:** My Windows 11 client workstation was successfully joined to the internal network but could not reach the internet.
@@ -65,8 +65,8 @@ Applying for remote roles in North America/Europe from Algeria, I prioritize upt
 ---
 
 ## 📬 Connect with Me
-*   **LinkedIn:** [[Your LinkedIn Profile Link Here]](https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/)
-*   **Credly/Badges:** [Link to your digital badges]
+*   **LinkedIn:** (https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/)
+*   **Credly/Badges:** (https://www.credly.com/users/mohamed-amine-boudieb)
 *   **Email:** just4fun.boudieb@gmail.com
 
 *"The best way to solve a technical problem is to first listen to the person having it."*
