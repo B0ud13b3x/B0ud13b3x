@@ -3,12 +3,12 @@
 ### 🚀 English Major & Triple-Certified IT Support Professional
 *Bridging the gap between technical complexity and clear communication.*
 
-I am an aspiring **Remote IT Help Desk Specialist** based in Algeria (GMT+1). I combine a background in English Language studies with intensive technical training in Microsoft and Google ecosystems to provide high-quality, security-first technical support.
+I am an aspiring **Remote IT Help Desk Specialist** based in Algeria . I combine a background in English Language studies with intensive technical training in Microsoft and Google ecosystems to provide high-quality, security-first technical support.
 
 ---
 
 ## 🛡️ Professional Certifications
-I have completed a rigorous technical training path to ensure I am job-ready for Tier 1 and Tier 2 support roles:
+I have completed a technical training path to ensure I am job-ready for Tier 1 and Tier 2 support roles:
 
 *   **Microsoft IT Support Specialist** – Specialized in Windows Server, Active Directory, and Enterprise networking.
 *   **Google IT Support Professional** – Foundations of troubleshooting, OS management, and customer service.
@@ -65,16 +65,13 @@ Applying for remote roles in North America/Europe from Algeria, I prioritize upt
 ---
 
 ## 📬 Connect with Me
-[<img align="left" alt="B0ud13b3x > gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][gmail]
-[<img align="left" alt="B0ud13b3x > linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][linkedin]
-[<img align="left" alt="B0ud13b3x > Credly" width="100px" src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" />][Credly]
+
+[<img align="left" alt="B0ud13b3x > linkedin" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="B0ud13b3x > Credly" width="60px" src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" />][Credly]
 
 
+[linkedin]: https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/
+[Credly]: https://www.credly.com/users/mohamed-amine-boudieb
 
-[linkedin] : https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/
-[Credly] : https://www.credly.com/users/mohamed-amine-boudieb
-[gmail]: ww.ww.ww
    
-*   **Email:** just4fun.boudieb@gmail.com
 
-*"The best way to solve a technical problem is to first listen to the person having it."*
