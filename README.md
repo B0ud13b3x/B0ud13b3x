@@ -67,7 +67,7 @@ Applying for remote roles in North America/Europe from Algeria, I prioritize upt
 ## 📬 Connect with Me
 [<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][gmail]
 [<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="B0ud13b3x" width="22px" src="https://img.icons8.com/color/1200/credly.jpg" />][Credly]
+[<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" />][Credly]
 
 [linkedin]: https://www.linkedin.com/in/mohammed-amine-boudieb-9b6019343/
 [Credly]: https://www.credly.com/users/mohamed-amine-boudieb
