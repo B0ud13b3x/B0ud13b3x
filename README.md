@@ -23,7 +23,6 @@ This is my primary hands-on environment where I simulate real-world corporate IT
 
 ### 🌐 Lab Architecture
 ![Network Diagram](./my%20first%20lab.png) 
-*(Note: Ensure your 'my first lab.png' file is uploaded to the same repository folder)*
 
 **The Scenario:** I built a functional corporate network from scratch using **Oracle VirtualBox** to practice user lifecycle management and network administration.
 
