@@ -65,8 +65,7 @@ Applying for remote roles in North America/Europe from Algeria, I prioritize upt
 ---
 
 ## 📬 Connect with Me
-[<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][gmail]
 [<img align="left" alt="B0ud13b3x" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="B0ud13b3x" width="22px" src="https://img.icons8.com/color/1200/credly.jpg" srcset="https://img.icons8.com/?size=256&amp;id=imamZukNSZr3&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=imamZukNSZr3&amp;format=png 2x" />][Credly]
 
