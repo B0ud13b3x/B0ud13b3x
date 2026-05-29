@@ -13,7 +13,7 @@ building everything from scratch to understand how it actually works.
  
 
  
-<h3>🛠️ What I Work With</h3>
+<h3> What I Work With</h3>
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -24,18 +24,18 @@ building everything from scratch to understand how it actually works.
  
 
  
-## 🔭 What I'm Building
+##  What I'm Building
  
 📁 **[Enterprise IT Operations & Help Desk Simulation](https://github.com/B0ud13b3x/Enterprise-IT-Operations-and-Help-Desk-Simulation)**
 → A full corporate IT environment: AD DS, DHCP, NAT/RAS, 1000+ users via PowerShell, osTicket ITSM
  
 
  
-## 📚 What I'm Learning Right Now
+##  What I'm Learning Right Now
  
-- 🔐 Deepening hands-on cybersecurity skills via TryHackMe
-- ⚙️ Group Policy management and software deployment via GPO
-- 🖧 Subnetting and network troubleshooting
+-  Deepening hands-on cybersecurity skills via TryHackMe
+-  Group Policy management and software deployment via GPO
+-  Subnetting and network troubleshooting
 
  
  
